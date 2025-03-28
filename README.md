@@ -1,5 +1,7 @@
 ## Formulário de Cadastro
 
+![Imagens do projeto](https://github.com/adri-ramos25/formulario-cadastro/raw/main/src/images/screenshot.png)
+
 
 
 ## Sobre o Projeto
