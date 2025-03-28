@@ -3,7 +3,7 @@
 
 
 ## Sobre o Projeto
-Indisponível.
+Formulário em que o usuário deve preencher os campos de nome, email e senha para se cadastrar.
 
 
 
@@ -13,19 +13,34 @@ Indisponível.
 
 
 ## Status do Projeto
-O projeto está **Em desenvolvimento**.
+O projeto está **Concluído**.
 
 
 
 ## Funcionalidades
-Indisponível.
+```plaintext
+- Validação de formulário   #Verifica se todos os campos do formulário foram preenchidos  
+```
 
 
 
 ## Tecnologias Utilizadas
-Indisponível.
+```plaintext
+- JavaScript   #Para verificar se todos os campos do formulário foram preenchidos
+- HTML         #Para a estrutura da página
+- CSS          #Para o estilo da página
+```
 
 
 
 ## Estrutura de Pastas
-Indisponível.
+```plaintext
+src/              #Pasta com o código-fonte do projeto
+   css/           #Pasta com arquivos CSS
+      index.css   #Estilos da página principal
+      reset.css   #Estilos para todos os elementos da página
+   js/            #Pasta com arquivos JavaScript
+      index.js    #Para verificar se todos os campos do formulário foram preenchidos
+README.md         #Informações do projeto
+index.html        #Página principal
+```
