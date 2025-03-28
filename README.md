@@ -10,7 +10,12 @@ Formulário em que o usuário deve preencher os campos de nome, email e senha pa
 
 
 ## Acesso ao Projeto
-Indisponível.
+Você pode ver o projeto funcionando através do seguinte link: https://adri-ramos25.github.io/formulario-cadastro/
+
+Ou, se preferir rodar localmente:
+
+1. Clone o repositório: `git clone https://github.com/adri-ramos25/formulario-cadastro.git`
+2. Abra o arquivo `index.html` no navegador.
 
 
 
